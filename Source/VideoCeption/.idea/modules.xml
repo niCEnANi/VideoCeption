@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VideoCeption.iml" filepath="$PROJECT_DIR$/VideoCeption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/readvideoproject.iml" filepath="$PROJECT_DIR$/.idea/modules/readvideoproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/videoception.iml" filepath="$PROJECT_DIR$/.idea/modules/videoception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/videoception-build.iml" filepath="$PROJECT_DIR$/.idea/modules/videoception-build.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,83 @@
+
+  if (feature[2] <= 22.0) 
+   if (feature[0] <= 116.0) 
+    if (feature[0] <= 53.0) 
+     if (feature[0] <= 36.0) 
+      return false;
+     else if (feature[0] > 36.0) 
+      return false;
+    else if (feature[0] > 53.0) 
+     if (feature[4] <= 104.0) 
+      return false;
+     else if (feature[4] > 104.0) 
+      if (feature[0] <= 82.0) 
+       return false;
+      else if (feature[0] > 82.0) 
+       return false;
+   else if (feature[0] > 116.0) 
+    if (feature[5] <= 119.0) 
+     if (feature[5] <= 56.0) 
+      if (feature[1] <= 65.0) 
+       return false;
+      else if (feature[1] > 65.0) 
+       return false;
+     else if (feature[5] > 56.0) 
+      if (feature[0] <= 122.0) 
+       return false;
+      else if (feature[0] > 122.0) 
+       return false;
+    else if (feature[5] > 119.0) 
+     if (feature[4] <= 109.0) 
+      if (feature[0] <= 118.0) 
+       return false;
+      else if (feature[0] > 118.0) 
+       return false;
+     else if (feature[4] > 109.0) 
+      if (feature[0] <= 118.0) 
+       return false;
+      else if (feature[0] > 118.0) 
+       return false;
+  else if (feature[2] > 22.0) 
+   if (feature[9] <= 63.0) 
+    if (feature[0] <= 36.0) 
+     if (feature[3] <= 118.0) 
+      return false;
+     else if (feature[3] > 118.0) 
+      if (feature[4] <= 123.0) 
+       return false;
+      else if (feature[4] > 123.0) 
+       return false;
+    else if (feature[0] > 36.0) 
+     if (feature[3] <= 58.0) 
+      if (feature[0] <= 127.0) 
+       return false;
+      else if (feature[0] > 127.0) 
+       return false;
+     else if (feature[3] > 58.0) 
+      if (feature[0] <= 53.0) 
+       return false;
+      else if (feature[0] > 53.0) 
+       return false;
+   else if (feature[9] > 63.0) 
+    if (feature[0] <= 14.0) 
+     if (feature[1] <= 12.0) 
+      if (feature[2] <= 48.0) 
+       return false;
+      else if (feature[2] > 48.0) 
+       return false;
+     else if (feature[1] > 12.0) 
+      if (feature[2] <= 48.0) 
+       return false;
+      else if (feature[2] > 48.0) 
+       return false;
+    else if (feature[0] > 14.0) 
+     if (feature[0] <= 75.0) 
+      if (feature[1] <= 65.0) 
+       return false;
+      else if (feature[1] > 65.0) 
+       return false;
+     else if (feature[0] > 75.0) 
+      if (feature[0] <= 88.0) 
+       return false;
+      else if (feature[0] > 88.0) 
+       return false;
